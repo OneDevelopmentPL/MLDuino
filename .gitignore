@@ -1,0 +1,23 @@
+# Build folders (Arduino IDE)
+build/
+bin/
+*.hex
+*.elf
+*.eep
+
+# Python virtual environment (if training models locally)
+.venv/
+venv/
+ENV/
+*.pyc
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
