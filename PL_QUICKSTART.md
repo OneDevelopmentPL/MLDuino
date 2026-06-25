@@ -1,8 +1,8 @@
 # 🚀 Quickstart: Jak wdrożyć AI do MLDuino
 
 
-[English README](README.md) | [Polski README](PL_README.md)<br>
-[English QUICKSTART](QUICKSTART.md) | [Polski QUICKSTART](PL_QUICKSTART.md)<br>
+[English README](README.md) | [Polski README](PL_README.md) | [Español README](ES_README.md)<br>
+[English QUICKSTART](QUICKSTART.md) | [Polski QUICKSTART](PL_QUICKSTART.md) | [Español QUICKSTART](ES_QUICKSTART.md)<br>
 
 Z racji tego, że Arduino Uno R3 ma zaledwie 2KB RAM-u, odpalanie standardowych bibliotek ML odpada. Zamiast tego trenujemy model na komputerze i eksportujemy go do postaci surowych instrukcji języka C (tzw. bare-metal).
 

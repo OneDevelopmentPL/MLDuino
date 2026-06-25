@@ -1,7 +1,7 @@
 # 🚀 Quickstart: Bringing AI to MLDuino
 
-[English README](README.md) | [Polski README](PL_README.md)<br>
-[English QUICKSTART](QUICKSTART.md) | [Polski QUICKSTART](PL_QUICKSTART.md)<br>
+[English README](README.md) | [Polski README](PL_README.md) | [Español README](ES_README.md)<br>
+[English QUICKSTART](QUICKSTART.md) | [Polski QUICKSTART](PL_QUICKSTART.md) | [Español QUICKSTART](ES_QUICKSTART.md)<br>
 
 Because the Arduino Uno R3 has only 2KB of RAM, we cannot run standard ML frameworks. Instead, we train a model on a computer and export it as plain, hardcoded C logic. 
 
