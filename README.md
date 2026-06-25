@@ -3,9 +3,9 @@
   <p><b>A bare-metal, ultra-optimized TinyML launcher for Arduino Uno R3.</b></p>
   
   [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-  [![Platform: Arduino](https://img.shields.io/badge/Platform-Arduino-blue.svg)](https://www.arduino.cc/)
-  [English README](README.md) | [Polski README](PL_README.md)
-  [English QUICKSTART](QUICKSTART.md) | [Polski QUICKSTART](PL_QUICKSTART.md)
+  [![Platform: Arduino](https://img.shields.io/badge/Platform-Arduino-blue.svg)](https://www.arduino.cc/)<br>
+  [English README](README.md) | [Polski README](PL_README.md)<br>
+  [English QUICKSTART](QUICKSTART.md) | [Polski QUICKSTART](PL_QUICKSTART.md)<br>
 </div>
 
 ## 🧠 Overview
